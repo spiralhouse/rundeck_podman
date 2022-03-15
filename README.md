@@ -13,7 +13,8 @@ Requirements
 ------------
 
 * A Linux system capable of running podman and systemd. In theory:
-  * Debian (tested)
+  * Debian / Ubuntu (tested)
+  * RHEL / CentOS
   * Fedora
   * openSUSE
   * Gentoo
@@ -32,11 +33,11 @@ Dependencies
 ------------
 
 ### Roles:
-  - [ikke_t.podman_container_systemd]()
+  * [ikke_t.podman_container_systemd]()
 
 ### Collections:
-  - name: [containers.podman]()
-  - name: [ansible.posix]()
+  * [containers.podman]()
+  * [ansible.posix]()
 
 Example Playbook
 ----------------
