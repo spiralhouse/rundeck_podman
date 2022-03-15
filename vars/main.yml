@@ -1,0 +1,5 @@
+---
+opensuse_repo_url: https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/xUbuntu_
+rundeck_user: rundeck
+rundeck_home: /home/rundeck
+rundeck_image_version: 3.4.10
