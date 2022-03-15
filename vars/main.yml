@@ -1,0 +1,8 @@
+---
+podman_minimum_included_version:
+  Debian: 11
+  Ubuntu: 21
+  Linux Mint: 18.3
+  Fedora: 31
+  CentOS: 7
+  RHEL7: 7
